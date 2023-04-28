@@ -12,9 +12,7 @@ root.render(
   <React.StrictMode>
     <BrowserRouter>
       <App />
-      <Routes>
-        <Route path="/Header" element={<Header />} />
-      </Routes>
+      <Header />
     </BrowserRouter>
   </React.StrictMode>
 )
