@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/react-colin/static/css/main.073c9b0a.css",
-    "main.js": "/react-colin/static/js/main.8bfd64ba.js",
+    "main.js": "/react-colin/static/js/main.67eac2a7.js",
     "static/js/787.f1a0cb0e.chunk.js": "/react-colin/static/js/787.f1a0cb0e.chunk.js",
     "static/media/logo.svg": "/react-colin/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-colin/index.html",
     "main.073c9b0a.css.map": "/react-colin/static/css/main.073c9b0a.css.map",
-    "main.8bfd64ba.js.map": "/react-colin/static/js/main.8bfd64ba.js.map",
+    "main.67eac2a7.js.map": "/react-colin/static/js/main.67eac2a7.js.map",
     "787.f1a0cb0e.chunk.js.map": "/react-colin/static/js/787.f1a0cb0e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.8bfd64ba.js"
+    "static/js/main.67eac2a7.js"
   ]
 }
