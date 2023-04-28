@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/react-colin/static/css/main.073c9b0a.css",
-    "main.js": "/react-colin/static/js/main.c4a071f9.js",
+    "main.js": "/react-colin/static/js/main.fda1fd2c.js",
     "static/js/787.f1a0cb0e.chunk.js": "/react-colin/static/js/787.f1a0cb0e.chunk.js",
     "static/media/compassPic02.png": "/react-colin/static/media/compassPic02.a597e4ef34b32b133b7e.png",
     "index.html": "/react-colin/index.html",
     "main.073c9b0a.css.map": "/react-colin/static/css/main.073c9b0a.css.map",
-    "main.c4a071f9.js.map": "/react-colin/static/js/main.c4a071f9.js.map",
+    "main.fda1fd2c.js.map": "/react-colin/static/js/main.fda1fd2c.js.map",
     "787.f1a0cb0e.chunk.js.map": "/react-colin/static/js/787.f1a0cb0e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c4a071f9.js"
+    "static/js/main.fda1fd2c.js"
   ]
 }
