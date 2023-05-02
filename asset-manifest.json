@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-colin/static/css/main.1273ad90.css",
-    "main.js": "/react-colin/static/js/main.f9cbe2ac.js",
+    "main.css": "/react-colin/static/css/main.f5bdbda2.css",
+    "main.js": "/react-colin/static/js/main.2d9456aa.js",
     "static/js/787.f1a0cb0e.chunk.js": "/react-colin/static/js/787.f1a0cb0e.chunk.js",
     "static/media/compassPic02.png": "/react-colin/static/media/compassPic02.a597e4ef34b32b133b7e.png",
     "index.html": "/react-colin/index.html",
-    "main.1273ad90.css.map": "/react-colin/static/css/main.1273ad90.css.map",
-    "main.f9cbe2ac.js.map": "/react-colin/static/js/main.f9cbe2ac.js.map",
+    "main.f5bdbda2.css.map": "/react-colin/static/css/main.f5bdbda2.css.map",
+    "main.2d9456aa.js.map": "/react-colin/static/js/main.2d9456aa.js.map",
     "787.f1a0cb0e.chunk.js.map": "/react-colin/static/js/787.f1a0cb0e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1273ad90.css",
-    "static/js/main.f9cbe2ac.js"
+    "static/css/main.f5bdbda2.css",
+    "static/js/main.2d9456aa.js"
   ]
 }
